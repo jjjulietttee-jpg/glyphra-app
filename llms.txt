@@ -2,7 +2,7 @@
 
 > Unlimited scans, translation and export
 
-Glyphra: Image to Text. iPhone app, available on the App Store: https://apps.apple.com/app/id6809165906?ct=ai_web
+Glyphra: Image to Text. iPhone app, available on the App Store: https://apps.apple.com/app/id6809165906?pt=128839649&ct=ai_web
 
 ## Guides
 
@@ -16,7 +16,7 @@ Glyphra: Image to Text. iPhone app, available on the App Store: https://apps.app
 ## App
 
 - [Home](https://jjjulietttee-jpg.github.io/glyphra-app/): what Glyphra does, features, pricing
-- [App Store](https://apps.apple.com/app/id6809165906?ct=ai_web): download, screenshots, reviews
+- [App Store](https://apps.apple.com/app/id6809165906?pt=128839649&ct=ai_web): download, screenshots, reviews
 
 ## Optional
 
