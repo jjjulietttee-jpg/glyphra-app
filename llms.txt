@@ -1,0 +1,25 @@
+# Glyphra
+
+> Unlimited scans, translation and export
+
+Glyphra: Image to Text. iPhone app, available on the App Store: https://apps.apple.com/app/id6809165906?ct=ai_web
+
+## Guides
+
+- [How to Copy Text From a Picture on iPhone (2026 Guide)](https://jjjulietttee-jpg.github.io/glyphra-app/copy-text-from-a-picture-on-iphone): Copy text from any photo or scanned page on iPhone with on-device OCR. Steps, an honest comparison with Apple Live Text, Adobe Scan and others, and FAQ.
+- [Alternatives to Adobe Scan for Extracting Text on iPhone (2026)](https://jjjulietttee-jpg.github.io/glyphra-app/free-alternative-to-adobe-scan-for-iphone): Free and paid alternatives to Adobe Scan for extracting text from photos on iPhone, with prices, limits and what each does better.
+- [How to Make a Searchable PDF From Paper Pages on iPhone](https://jjjulietttee-jpg.github.io/glyphra-app/make-a-searchable-pdf-from-paper-on-iphone): Turn paper pages into a searchable PDF on iPhone: scan, recognize text, export a PDF with a real text layer. Honest app comparison and FAQ.
+- [Offline OCR Scanner for iPhone, No Upload (2026 Guide)](https://jjjulietttee-jpg.github.io/glyphra-app/offline-ocr-scanner-for-iphone-no-upload): An OCR scanner for iPhone that works offline and does not upload your documents: how it works, what to check, and how Glyphra compares.
+- [How to Scan Receipts and Extract the Text on iPhone](https://jjjulietttee-jpg.github.io/glyphra-app/scan-receipts-and-extract-text-on-iphone): Scan a receipt on iPhone and pull the text out with on-device OCR. Steps, tips for faded paper, honest comparison and FAQ.
+- [How to Turn Handwritten Notes Into Typed Text on iPhone](https://jjjulietttee-jpg.github.io/glyphra-app/turn-handwritten-notes-into-text-on-iphone): Scan handwritten notes on iPhone and get typed, searchable text with on-device recognition. Steps, honest comparison and FAQ.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/glyphra-app/): what Glyphra does, features, pricing
+- [App Store](https://apps.apple.com/app/id6809165906?ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/glyphra-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/glyphra-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/glyphra-app/terms)

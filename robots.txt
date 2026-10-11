@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jjjulietttee-jpg.github.io/glyphra-app/sitemap.xml
